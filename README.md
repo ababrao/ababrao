@@ -51,15 +51,6 @@ I'm a Computer Science graduate with a hands-on profile that ranges from softwar
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ababrao&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ababrao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
 ### Contact
 
 <p>
